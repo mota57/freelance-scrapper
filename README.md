@@ -40,6 +40,6 @@
 
 
 # Screen Logs
-![Screen Logs](./screen3.PNG)
+![Screen Logs](./screen3.1.PNG)
 <br/>
 Check the logs if any issues
