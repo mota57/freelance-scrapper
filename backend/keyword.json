@@ -1,0 +1,21 @@
+{
+    "version": 2,
+    "keys": [
+        "name",
+        "is_active"
+    ],
+    "data": {
+        "315554658989525249": {
+            "name": "Funny Sweatshirt",
+            "is_active": false
+        },
+        "236171479719688958": {
+            "name": "Western shirt",
+            "is_active": true
+        },
+        "120350992566175943": {
+            "name": "Valentines day shirt",
+            "is_active": true
+        }
+    }
+}

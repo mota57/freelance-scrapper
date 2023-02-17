@@ -1,0 +1,29 @@
+{
+  "name": "Cookie Viewer Erank",
+  "manifest_version": 3,
+  "version": "1.0",
+  "host_permissions": [
+    "https://erank.com/listing-audit/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "cookies",
+    "activeTab",
+    "storage",
+    "webRequest"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://erank.com/listing-audit/*"
+      ],
+      "run_at": "document_end",
+      "js": ["content-script.js"]
+    }
+  ]
+}

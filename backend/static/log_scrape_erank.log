@@ -1,0 +1,9 @@
+2023-02-13:19:26:58,911 INFO     [_internal.py:224] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-02-13:19:26:58,911 INFO     [_internal.py:224] [33mPress CTRL+C to quit[0m
+2023-02-13:19:28:15,291 INFO     [_internal.py:224] 127.0.0.1 - - [13/Feb/2023 19:28:15] "GET /keywords HTTP/1.1" 200 -
+2023-02-13:19:28:50,319 INFO     [_internal.py:224] 127.0.0.1 - - [13/Feb/2023 19:28:50] "GET /keywords HTTP/1.1" 200 -
+2023-02-13:19:28:51,838 INFO     [_internal.py:224] 127.0.0.1 - - [13/Feb/2023 19:28:51] "GET /keywords HTTP/1.1" 200 -
+2023-02-13:19:29:29,433 INFO     [_internal.py:224] 127.0.0.1 - - [13/Feb/2023 19:29:29] "GET /keywords HTTP/1.1" 200 -
+2023-02-13:19:29:57,401 INFO     [_internal.py:224] 127.0.0.1 - - [13/Feb/2023 19:29:57] "GET /keywords HTTP/1.1" 200 -
+2023-02-13:19:36:40,471 INFO     [_internal.py:224] 127.0.0.1 - - [13/Feb/2023 19:36:40] "GET /keywords/log_scrape_erank HTTP/1.1" 200 -

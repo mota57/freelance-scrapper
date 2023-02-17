@@ -1,0 +1,5 @@
+/backend/venv
+/backend/.vscode
+/client/node_modules
+/backend/__pycache__
+```
